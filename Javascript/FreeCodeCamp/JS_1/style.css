@@ -1,0 +1,23 @@
+
+
+body{
+    background-image: url("Screenshot\ \(91\).png");
+    background-size: contain;
+    
+    text-align: center;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    margin-top: 100px;
+    /* margin-bottom: 40px; */
+    font-size: 50px;
+    color: aliceblue;
+}
+h2{
+    font-size: 50px;
+    /* margin-top: 0;
+    margin-bottom: 20px; */
+    color: aliceblue;
+}
